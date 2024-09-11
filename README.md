@@ -1,1 +1,1 @@
-# 9roomthon
+# 구름x카카오 DEEP DIVE 정보보호 전문가 마스터 양성 과정
